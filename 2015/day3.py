@@ -13,6 +13,7 @@ Part 2: Find how many houses Santa and Robot visited more than once together
 '''
 
 try:
+    # Variables to keep track of
     position = [0, 0]
     santa_pos = [0, 0]
     robot_pos = [0, 0]
