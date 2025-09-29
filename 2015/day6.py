@@ -1,9 +1,9 @@
-'''Day 5
-Help Santa Determine Naughty or Nice
+'''Day 6
+Help Santa Display the Ideal Light Configuration
 
-Part 1: Find how many strings are nice under the old rules
+Part 1: Find out how many strings are lit
 
-Part 2: Find how many strings are nice under the new rules
+Part 2: Find out the total brightness of all the lights
 '''
 
 try:
