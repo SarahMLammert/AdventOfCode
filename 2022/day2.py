@@ -1,7 +1,5 @@
 '''Day 2'''
 
-
-
 try:
     scores_dict = {'A':1, 'B':2, 'C':3}
     transfer = {'X':'A', 'Y':'B', 'Z':'C'}
